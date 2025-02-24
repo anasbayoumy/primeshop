@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23546495012",
+    "project_id": "primeshop-1eb1e",
+    "storage_bucket": "primeshop-1eb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23546495012:android:5d657e3bc791892fa3d8b1",
+        "android_client_info": {
+          "package_name": "com.anas.primeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6pwx3cGIztfNAMYvpbJqjPmB42b6B0ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
